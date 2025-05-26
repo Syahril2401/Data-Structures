@@ -1,0 +1,4 @@
+CK001 Blueberry Cake     11 25000
+CK009 Chocochip Cake     10 20000
+CK017 Mayonaise Cake     24 30000
+CK023 Strawberry Shortcake     7 17500
